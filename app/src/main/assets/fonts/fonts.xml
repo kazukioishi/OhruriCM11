@@ -3,6 +3,10 @@
     <family>
         <nameset>
             <name>sans-serif</name>
+            <name>sans-serif-condensed</name>
+            <name>sans-serif-thin</name>
+            <name>sans-serif-condensed</name>
+            <name>sans-serif-normal</name>
             <name>arial</name>
             <name>helvetica</name>
             <name>tahoma</name>
@@ -13,14 +17,9 @@
             <file>Ohruri.ttf</file>
             <file>Ohruri.ttf</file>
             <file>Ohruri.ttf</file>
-            <file>Ohruri.ttf</file>
         </fileset>
     </family>
-    
-   <family>
-        <nameset>
-            <name>sans-serif-condensed</name>
-        </nameset>
+    <family>
         <fileset>
             <file>Ohruri.ttf</file>
         </fileset>
